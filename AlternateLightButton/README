@@ -1,0 +1,1 @@
+This code creates the behavior of a trigger circuit so that the onboard light of Netduino turns on after one button is pushed a certain number of times. The second button in the project resets the trigger to listen for events again.
