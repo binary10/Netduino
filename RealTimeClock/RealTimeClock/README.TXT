@@ -1,4 +1,4 @@
-Hello time-keepers,
+Hello time-keepers
 
 This repository makes available to you a Netduino driver for 
 the DS3232 RTC chip. I found mine at Freetronics in the form
