@@ -12,7 +12,6 @@ recommend following the Arduino tutorial on this module at
 Freetronics that can be found under the "Resources" header of
 the link above.
 
-
 While writing this code, I encountered a couple of tricky things
 about the DS3232 that can be summarized as follows:
 
@@ -25,16 +24,15 @@ There are three oscillator controls
 The timekeeping oscillator is temperature corrected. The chip 
 periodically does a calibration and updates its circuitry to 
 improve timekeeping accuracy. 
-	* The thermometer readings will only change only when 
+	* The thermometer readings will update only when 
 	  the temperature correction calibration takes place.
 	* The frequency of calibration can be adjusted. It is by
 	  default set to the highest frequency.
 
 
 This code is released under the GPL license that can be found
-at the root of this repository.
+at the root of this repository. As part of this binding license agreement, 
+if you use this code in your project, I require that you
+do thirty push-ups and say Bloody Mary into the mirror three times.
 
 Enjoy using this code and please improve it if you have ideas.
-
-Thanks
-Dan
