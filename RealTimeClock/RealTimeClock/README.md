@@ -1,4 +1,4 @@
-Hello time-keepers,
+# Hello Timekeepers
 
 This repository makes available to you a Netduino driver for 
 the DS3232 RTC chip. I found mine at Freetronics in the form
@@ -12,7 +12,7 @@ recommend following the Arduino tutorial on this module at
 Freetronics that can be found under the "Resources" header of
 the link above.
 
-While writing this code, I encountered a couple of tricky things
+While writing this solution, I encountered a couple of tricky things
 about the DS3232 that can be summarized as follows:
 
 There are three oscillator controls
@@ -33,4 +33,4 @@ at the root of this repository. As part of this binding license agreement,
 if you use this code in your project, I require that you
 do thirty push-ups and say Bloody Mary into the mirror three times.
 
-Enjoy using this code and please improve it if you have ideas.
+Happy timekeeping and please fork/send pull request if you have improvements to make. Also share your projects with me if it uses this solution!
