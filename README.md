@@ -6,7 +6,7 @@ Embedded electronics apps for fun, practice, and learning.
 ### Project Listing
 
 #### Libraries
-These are projects that can be used as modules in your projects.
+These are modules that can be used in your projects.
 * [RealTimeClock]: A library for controlling the DS3232 clock chip.
 
 #### Applications/Sketches
