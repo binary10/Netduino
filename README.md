@@ -23,5 +23,6 @@ Please feel free to fork, send me a merge request, or contact me with questions 
 
 [RealTimeClock]: https://github.com/binary10/Netduino/tree/master/RealTimeClock
 [AlternateLightButton]: https://github.com/binary10/Netduino/tree/master/AlternateLightButton
+[LightInterruptPort]: https://github.com/binary10/Netduino/tree/master/LightInterruptPort
 [Servo]: https://github.com/binary10/Netduino/tree/master/Servo
 [ServoPotControl]: https://github.com/binary10/Netduino/tree/master/ServoPotControl
