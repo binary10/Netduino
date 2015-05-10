@@ -7,14 +7,14 @@ namespace RealTimeClock.Hardware
     {
         private DS3232Connection _ds3232;
 
-        public Clock Clock;
-        public Alarm Alarm;
-        public Alarm SecondaryAlarm;
-        public Thermometer Thermometer;
-        public Oscillator32KHz Oscillator32KHz;
-        public SquareOscillator SQW;
-        public TimeOscillator Oscillator;
-        public Memory Memory;
+        public Clock Clock                      { get; private set; };
+        public Alarm Alarm                      { get; private set; };
+        public Alarm SecondaryAlarm             { get; private set; };
+        public Thermometer Thermometer          { get; private set; };
+        public Oscillator32KHz Oscillator32KHz  { get; private set; };
+        public SquareOscillator SQW             { get; private set; };
+        public TimeOscillator Oscillator        { get; private set; };
+        public Memory Memory                    { get; private set; };
 
 
         // Constructor
