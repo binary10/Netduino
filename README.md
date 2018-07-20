@@ -21,9 +21,9 @@ Pretty much all of these are beginner applications that I wrote while starting t
 #### Deploying to Your Netduino
 It's all text, so open up your command line and Emacs editor and...
 
-Just kidding! Get yourself a modern IDE like Xamarin Studio or Visual Studio and open the solution (`.sln`) file. Check the connections to your board and click the debug button. This will deploy the application to the device and allow you to user the debugger as usual. Once deployed, you can take the board with you anywhere and supply power for it to run the application.
+Just kidding! Get yourself a modern IDE like Visual Studio and open the solution (`.sln`) file. Check the connections to your board and click the debug button. This will deploy the application to the device and allow you to user the debugger as usual. Once deployed, you can take the board with you anywhere and supply power for it to run the application.
 
-You can find instructions for downloading an IDE, .NETMF, and the Netduino SDK at the [Netduino] download page. I created, compiled, and deployed these projects on Windows with Visual Studio, but you should be able to deploy through Xamarin Studio on Windows, Mac or Linux.
+You can find instructions for downloading an IDE, .NETMF, and the Netduino SDK at the [Netduino] download page. I created, compiled, and deployed these projects on Windows with Visual Studio and you should be able to deploy from Windows, Mac or Linux. See [Wilderness Labs] for more information.
 
 #### Enjoy 
 Please feel free to fork, send me a merge request, or contact me with questions on the Netduino forum. 
@@ -35,3 +35,4 @@ Please feel free to fork, send me a merge request, or contact me with questions 
 [ServoPotControl]: https://github.com/binary10/Netduino/tree/master/ServoPotControl
 
 [Netduino]: http://www.netduino.com/downloads/
+[Wilderness Labs]: http://developer.wildernesslabs.co/Netduino/
